@@ -1,0 +1,18 @@
+.header__wrap-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.header__img{
+    margin-bottom: 40px;
+    width: 100%;
+}
+
+@media (min-width: 500px ){
+    .header__img{
+        width: 500px;
+    }
+}
